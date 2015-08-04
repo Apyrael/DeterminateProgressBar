@@ -1,0 +1,7 @@
+<resources>
+    <string name="appName">DeterminateProgressBar</string>
+
+    <string name="main">Determinate ProgressBar</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>

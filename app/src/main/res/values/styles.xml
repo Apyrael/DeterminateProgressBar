@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="textColorWhite">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="ProgressBarSmallBlue">
+        <item name="android:progressDrawable">@drawable/progressbar_small_blue</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminate">false</item>
+        <item name="android:minHeight">2dp</item>
+        <item name="android:maxHeight">2dp</item>
+    </style>
+
+</resources>
